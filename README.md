@@ -14,3 +14,14 @@
 #### Trabajo:
 
 - 
+
+#### Alumnos:✒️
+
+- **Hillary Cristina Quispe Serrano** - _GitHub Account_ - [HillaryCristina](https://github.com/HillaryCristina)
+- **Lady Diana Quinto Catachura** - _GitHub Account_ - [-](https://github.com/-)
+- **Rudy Quispe Tacuri** - _GitHub Account_ - [-](https://github.com/-)
+- **Lucero Quispe Puma** - _GitHub Account_ - [-](https://github.com/-)
+
+---
+
+## 🛒🛒😁😁
