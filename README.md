@@ -13,7 +13,8 @@
 - **Waldo Elio Ibarra Zambrano .** 
 #### Trabajo:
 
-- 
+- Este proyecto esta basado en el lenguaje c# con conexion a SQL Server para los diseños usamos diferentes herramientas Recortes,Word,starUML y Power Point 
+- Es un proyecto orientado a la metodologia SCRUM 
 
 #### Alumnos:✒️
 
